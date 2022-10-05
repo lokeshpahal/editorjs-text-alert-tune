@@ -1,6 +1,6 @@
 {
   "name": "@lokeshpahal/alert-variant-tune",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "main": "dist/alert-variant-tune.js",
   "repository": {
     "type": "git",
