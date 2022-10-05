@@ -1,6 +1,8 @@
 .cdx-alert-variant--alert-info .ce-block__content {
   color: #084293;
   background-color: #cfe2ff;
+  border-style: solid;
+  border-width: 1px;
   border-color: #b6d4fe;
   padding: 5px 10px;
   border-radius: 6px;
@@ -11,6 +13,8 @@
 .cdx-alert-variant--alert-warning .ce-block__content {
   color: #997404;
   background-color: #fff3cd;
+  border-style: solid;
+  border-width: 1px;
   border-color: #ffecb5;
   padding: 5px 10px;
   border-radius: 6px;
@@ -23,6 +27,8 @@
   color: #842029;
   background-color: #f8d7da;
   border-color: #f5c2c7;
+  border-style: solid;
+  border-width: 1px;
   padding: 5px 10px;
   border-radius: 6px;
   border-left-width: 4px;

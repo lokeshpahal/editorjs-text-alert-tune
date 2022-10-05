@@ -2,7 +2,10 @@
   "name": "@lokeshpahal/alert-variant-tune",
   "version": "1.0.1",
   "main": "dist/alert-variant-tune.js",
-  "repository": "https://github.com/lokeshpahal/editorjs-text-alert-tune",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lokeshpahal/editorjs-text-alert-tune.git"
+  },
   "author": "Lokesh Pahal <lokeshpahal2000@gmail.com>",
   "license": "MIT",
   "scripts": {
@@ -18,5 +21,13 @@
   },
   "dependencies": {
     "yarn": "^1.22.19"
-  }
+  },
+  "description": "Editor.js Alert Tune allows applying one of defined text alert variant: **Info**, **Warning**, and **Danger** to any block.",
+  "bugs": {
+    "url": "https://github.com/lokeshpahal/editorjs-text-alert-tune/issues"
+  },
+  "homepage": "https://github.com/lokeshpahal/editorjs-text-alert-tune#readme",
+  "keywords": [
+    "editorjs"
+  ]
 }
