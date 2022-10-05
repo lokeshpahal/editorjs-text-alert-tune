@@ -1,0 +1,43 @@
+.cdx-alert-variant--alert-info .ce-block__content {
+  color: #084293;
+  background-color: #cfe2ff;
+  border-color: #b6d4fe;
+  padding: 5px 10px;
+  border-radius: 6px;
+  border-left-width: 4px;
+  border-left-color: #006aff;
+}
+
+.cdx-alert-variant--alert-warning .ce-block__content {
+  color: #997404;
+  background-color: #fff3cd;
+  border-color: #ffecb5;
+  padding: 5px 10px;
+  border-radius: 6px;
+  border-left-width: 4px;
+  border-left-color: #ffab00;
+}
+
+
+.cdx-alert-variant--alert-danger .ce-block__content {
+  color: #842029;
+  background-color: #f8d7da;
+  border-color: #f5c2c7;
+  padding: 5px 10px;
+  border-radius: 6px;
+  border-left-width: 4px;
+  border-left-color: #da0014;
+}
+
+.cdx-alert-variant--citation {
+  font-style: italic;
+}
+
+.cdx-alert-variant--details {
+  font-size: 0.84em;
+}
+
+.cdx-alert-variant__toggler svg {
+  width: 20px;
+  height: 20px;
+}
