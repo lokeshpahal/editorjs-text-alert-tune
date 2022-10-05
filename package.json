@@ -1,9 +1,9 @@
 {
-  "name": "@editorjs/text-variant-tune",
+  "name": "@lokeshpahal/alert-variant-tune",
   "version": "1.0.1",
-  "main": "dist/text-variant-tune.js",
-  "repository": "https://github.com/editor-js/text-variant-tune",
-  "author": "CodeX <team@codex.so>",
+  "main": "dist/alert-variant-tune.js",
+  "repository": "https://github.com/lokeshpahal/editorjs-text-alert-tune",
+  "author": "Lokesh Pahal <lokeshpahal2000@gmail.com>",
   "license": "MIT",
   "scripts": {
     "build": "webpack --mode production",
@@ -15,5 +15,8 @@
     "svg-inline-loader": "^0.8.2",
     "webpack": "^5.33.2",
     "webpack-cli": "^4.6.0"
+  },
+  "dependencies": {
+    "yarn": "^1.22.19"
   }
 }

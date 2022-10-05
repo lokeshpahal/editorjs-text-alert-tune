@@ -18,8 +18,8 @@ module.exports = {
     ],
   },
   output: {
-    filename: 'text-variant-tune.js',
-    library: 'TextVariantTune',
+    filename: 'alert-variant-tune.js',
+    library: 'AlertVariantTune',
     libraryTarget: 'umd',
     libraryExport: 'default',
   },
